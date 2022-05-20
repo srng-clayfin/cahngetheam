@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { CartContext } from '../Context/CounterContext'
+import { CartContext } from './CounterContext'
 import './Check.css'
 
 export default function Checkfunction() {
